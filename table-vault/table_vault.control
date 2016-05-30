@@ -1,0 +1,4 @@
+# secure vault
+comment = 'table_vault'
+default_version = '1.0'
+schema = table_vault

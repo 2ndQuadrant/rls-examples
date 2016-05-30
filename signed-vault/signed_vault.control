@@ -1,0 +1,4 @@
+# secure vault
+comment = 'signed_vault'
+default_version = '1.0'
+schema = signed_vault
